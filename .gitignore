@@ -36,6 +36,9 @@ assets/img/*.jpeg
 *.jpg
 *.jpeg
 
+# Freya gallery assets are optimized production images and must ship to Netlify.
+!assets/media/freya/*.jpg
+
 # Preserve the deployment-safe JPG source backup shipped with this checkout.
 !assets/MISTRESS Arushi 👠💸💖_2026_09_13/*.jpg
 
