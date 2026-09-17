@@ -1,0 +1,19 @@
+{
+  "name": "lady-freya-official",
+  "version": "1.0.0",
+  "description": "Lady Freya — German luxury feet, customs and worn items",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "lady-freya",
+    "feet-content",
+    "custom-media",
+    "luxury-portfolio"
+  ],
+  "author": "Lady Freya",
+  "license": "UNLICENSED",
+  "private": true
+}
